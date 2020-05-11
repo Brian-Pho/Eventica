@@ -10,9 +10,9 @@ Year: 2020
 
 ## Eventica
 
-An event management application based off of Eventbrite built using [React](https://reactjs.org/), 
+An event management application based on Eventbrite and built using [React](https://reactjs.org/), 
 [Material-UI](https://material-ui.com/), [Redux](https://redux.js.org/), 
-[Express](https://expressjs.com/) and [node.js](https://nodejs.org/en/). 
+[Express](https://expressjs.com/), and [node.js](https://nodejs.org/en/). 
 This repository is divided into two folders, one for the client-side
 code and one for the server-side code.
 
